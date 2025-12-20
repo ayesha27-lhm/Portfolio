@@ -27,7 +27,7 @@ This repository is intended for **portfolio demonstration purposes** only.
 ## 📥 Download APK
 You can download the latest release APK from the **Releases** section:
 
-➡️ [Go to Releases → Download APK](#)  
+➡️ [Go to Releases → Download APK & Video Tutorial](#)  
 
 > ⚠️ Note: Make sure to enable *“Install from unknown sources”* on your Android device before installing.
 
