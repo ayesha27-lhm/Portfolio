@@ -46,23 +46,23 @@ You can download the latest release APK from the **Releases** section:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 You can view screenshots from the above uploaded folder
 
 ---
 
-## 🎥 Video Tutorials
+## Video Tutorials
 - Each showcased app includes a **short video tutorial** demonstrating functionality and UI design.
 
 ---
 
-## 📌 Purpose
+## Purpose
 This application is created purely for **portfolio and demonstration purposes**.  
 Source code is **not included** in this repository.  
 
 ---
 
-## 📬 Contact
+## Contact
 For any questions, feedback, or collaboration opportunities, feel free to reach out:
 
 - Email: azexpert50@gmail.com
